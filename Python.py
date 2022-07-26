@@ -1,6 +1,6 @@
 import numpy
-a=300
-b=590
+a=3000
+b=5900
 c=a+b
 
 print "Summation of two numbers " c
